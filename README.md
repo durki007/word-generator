@@ -46,6 +46,3 @@ This project generates Word documents (`.docx`) using a template and data from a
 ## Requirements
 - Python 3.7+
 - See `requirements.txt` for required packages.
-
-## License
-MIT
